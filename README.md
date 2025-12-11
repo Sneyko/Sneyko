@@ -1,3 +1,4 @@
+![Tom](https://i.imgur.com/5lKowQJ.png)
 # 💫 About Me:
 📚 IUT de Toulouse<br>🌱 Kotlin, JavaScript, Python
 
@@ -11,8 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sneyko&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sneyko&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneyko&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sneyko&icon=4&color=5)](https://visitcount.itsvg.in)
-
-![Tom](https://i.imgur.com/5lKowQJ.png)
